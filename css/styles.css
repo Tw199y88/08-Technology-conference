@@ -355,14 +355,13 @@ header h1 {
   font-size: 1.2rem;
   font-weight: 800;
   font-family: "MuseoModerno", sans-serif;
-  font-optical-sizing: auto;
   font-style: normal;
-  color: primaryColor;
+  color: white;
 }
 
 /*Navigation stuff goes here*/
 #navWrapper {
-  background-color: #d634ff;
+  background-color: #a810ce;
 }
 
 nav .top {
@@ -415,11 +414,11 @@ nav ul li a {
   text-decoration: none;
 }
 nav ul li a:hover {
-  background-color: #d220ff;
+  background-color: #990fbb;
   color: white;
 }
 nav ul li.active a {
-  background-color: #ce0bff;
+  background-color: #890da8;
 }
 nav ul.open {
   display: block;
@@ -594,7 +593,7 @@ main img {
 }
 
 #footerWrapper {
-  background-color: #d634ff;
+  background-color: #a810ce;
   color: white;
 }
 
@@ -633,7 +632,7 @@ footer p {
     transition: background 0.3s linear;
   }
   nav ul li a:hover {
-    background: #d11bff;
+    background: #950eb6;
   }
   .medium-1 {
     flex-basis: 8.3333333333%;
